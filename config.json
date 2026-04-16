@@ -1,0 +1,206 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#4f4f4f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CD2D26",
+            "yellow": "#949494",
+            "yellow-button": "#CD2D26",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#CD2D26",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#CD2D26",
+            "starColor": "#CD2D26",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6415"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6416",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Partouche Bandol"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6417",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Partouche Bandol"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino Partouche Bandol",
+                    "title": "Casino Partouche Bandol : jeux et restauration en bord de mer",
+                    "description": "Découvrez notre véritable casino en bord de mer à Bandol avec deux ambiances de jeu, la table élégante de La Rotonde, les avantages Players Plus et des services pratiques pour nos visiteurs.",
+                    "canonical": "casino-partouche-bandol.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6418",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-partouche-bandol.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6419"
+                },
+                "hero": {
+                    "title": "Casino Partouche à Bandol — une destination de loisirs et d’expérience sur place",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6420",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6421",
+                    "mobileImageSizeModifier": -4,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Emplacement premium en front de mer",
+                        "Deux ambiances de jeu complémentaires",
+                        "Plus grand parc local de roulette",
+                        "Restaurant élégant avec vue panoramique",
+                        "Récompenses Players Plus et accès fluide"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino Partouche Bandol  App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6422",
+                    "imageSizeModifier": -3,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Partouche Bandol  App",
+                    "mobileGooglePlayImageTitle": "Casino Partouche Bandol  App",
+                    "mobileIosImageTitle": "Casino Partouche Bandol  App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "Interesting Facts",
+                        "items": [
+                            "Notre salle des machines à sous fonctionne de 9h00 à 4h00.",
+                            "Nos tables de jeux traditionnels sont ouvertes de 20h30 à 3h30.",
+                            "La Rotonde offre une vue panoramique sur la baie de Bandol."
+                        ],
+                        "description2": "Dans notre casino, nous réunissons le jeu, la restauration et l’atmosphère du littoral dans l’un des cadres de loisirs les plus attractifs de Bandol. Notre adresse à l’extrémité du Quai Charles de Gaulle place nos visiteurs directement face à la mer, et notre intérieur contemporain au design soigné donne à l’expérience une identité élégante et immédiatement agréable.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6423",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino Partouche Bandol",
+                        "description3": "Ce qui nous distingue clairement, c’est notre manière d’organiser l’expérience sur place. Nous proposons deux ambiances de jeu différentes : l’une plus raffinée et intime, avec une vue mer exceptionnelle qui donne presque la sensation de jouer sur l’eau, et l’autre plus dynamique, pensée pour le divertissement, portée par le plus grand parc de Roulette Anglaise Électronique du Var.\n\nNous créons aussi de la valeur bien au-delà du floor de jeu. Nos visiteurs peuvent prolonger leur expérience avec notre bar et avec La Rotonde, notre restaurant ouvert sur la baie de Bandol, où la cuisine française traditionnelle, le cadre panoramique et le service du déjeuner et du dîner renforcent notre positionnement de destination de loisirs complète."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Caractéristiques du casino",
+                        "description": "<p>Notre casino s’adresse aux visiteurs qui ne veulent pas choisir entre l’énergie du jeu et la qualité d’une vraie destination de loisirs. Le fait d’être installé directement en bord de mer change la valeur émotionnelle de la visite : l’expérience ressemble moins à une simple halte de jeu qu’à une sortie complète dans un cadre balnéaire élégant.<\/p>\n<br>\n<p>Ce positionnement devient encore plus fort parce que nous ne reposons pas sur une seule ambiance de jeu. Nous proposons deux concepts distincts sur place, ce qui compte réellement selon les profils de joueurs : l’un est plus raffiné et tourné vers la mer, l’autre plus animé et mieux adapté aux visiteurs qui recherchent davantage de rythme et de mouvement.<\/p>\n<br>\n<p>L’espace de jeu avec vue mer est particulièrement pertinent pour les visiteurs qui considèrent le cadre comme une partie intégrante de l’expérience. Dans un casino terrestre, le confort visuel et l’atmosphère influencent souvent la qualité d’une session autant que l’offre de jeu elle-même, et notre implantation face à la baie donne ici un avantage évident.<\/p>\n<br>\n<p>L’espace plus ludique apporte une autre forme de force. La présence confirmée du plus grand parc de Roulette Anglaise Électronique du Var nous donne un positionnement local distinctif et montre que notre casino a été pensé pour offrir plus qu’un floor standardisé.<\/p>\n<br>\n<p>Notre bar et notre restaurant modifient aussi la manière dont les visiteurs utilisent le lieu. Au lieu de séparer le jeu, les boissons et le dîner en plusieurs étapes dans la ville, nos visiteurs peuvent organiser toute leur sortie au même endroit, ce qui constitue un avantage pratique majeur pour les couples, les groupes et les sorties du soir.<\/p>\n<br>\n<p>La Rotonde ajoute une couche qualitative supplémentaire, car il ne s’agit pas seulement d’une option de restauration fonctionnelle. Une vue panoramique sur la baie, une cuisine française traditionnelle et un fonctionnement à l’année donnent au lieu une vraie valeur de destination et soutiennent des sessions plus longues et plus détendues.<\/p>\n<br>\n<p>La logistique de service renforce la même impression de confort premium. Parking, parking Central à proximité, accès PMR, espace fumeur et règles d’admission clairement définies réduisent les frictions et rendent la visite plus facile à planifier, notamment pour les visiteurs qui veulent une expérience terrestre fluide dès l’arrivée.<\/p>\n<br>\n<p>Enfin, Players Plus transforme une simple visite en relation de long terme. Avec des offres exclusives, des avantages personnalisés, des cadeaux tout au long de l’année et un package de bienvenue lié au jeu et à la restauration, nous donnons à nos visiteurs une structure de fidélité qui soutient à la fois la valeur de divertissement et l’envie de revenir.<\/p><br><div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\"> <tr> <th style=\"width:34%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Caractéristique<\/th> <th style=\"width:66%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Détails confirmés<\/th> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Cadre<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Emplacement en bord de mer à l’extrémité du Quai Charles de Gaulle à Bandol<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Ambiance<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Espace design et contemporain avec une atmosphère élégante<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Concept de jeu<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Deux ambiances de jeu : un espace cosy avec vue mer et un espace plus ludique<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Point fort signature<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Plus grand parc de Roulette Anglaise Électronique du Var<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Horaires de jeu<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Salle des machines à sous 9h00–4h00 ; tables traditionnelles 20h30–3h30<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Restauration<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Bar et restaurant La Rotonde avec vue panoramique sur la baie de Bandol<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Accès<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Entrée gratuite, tenue correcte exigée, réservé aux 18 ans et plus, pièce d’identité valide obligatoire<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Services visiteurs<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Parking, parking Central à proximité, accès PMR, espace fumeur<\/td> <\/tr> <tr> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Programme de fidélité<\/td> <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Players Plus avec offres exclusives, avantages personnalisés, cadeaux toute l’année et récompenses de bienvenue<\/td> <\/tr> <\/table> <\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Dépôts et retraits",
+                        "description": "<p>Dans un casino terrestre, l’analyse des paiements est étroitement liée à la confiance des visiteurs. Pour nos clients, les dépôts et les retraits font partie du parcours global de service, même lorsque les méthodes opérationnelles exactes ne sont pas détaillées dans l’ensemble actuel des sources vérifiées.<\/p>\n<br>\n<p>D’un point de vue transactionnel, les visiteurs veulent généralement comprendre clairement comment les fonds entrent et sortent de l’environnement du casino. C’est pourquoi nous séparons les faits confirmés des hypothèses non vérifiées au lieu de combler les lacunes avec des détails non soutenus par les informations disponibles.<\/p>\n<br>\n<p>Une communication exacte sur les paiements soutient directement la logique de planification. Les visiteurs comparent souvent l’accessibilité des dépôts, les conditions de retrait, l’exposition éventuelle aux frais et la logique des délais de traitement avant de s’engager dans une sortie de divertissement terrestre.<\/p>\n<br>\n<p>Notre profil de service envoie néanmoins des signaux de confiance solides, même lorsque les mécanismes transactionnels ne sont pas détaillés publiquement. L’entrée gratuite, le contrôle d’accès réservé aux adultes, l’exigence d’une pièce d’identité valide, l’accessibilité, les solutions de stationnement et un programme de fidélité structuré contribuent à une expérience plus organisée et plus rassurante.<\/p>\n<br>\n<p>La même logique s’applique au confort de visite et à la gestion du budget de jeu. Comme nous combinons de longues heures d’ouverture avec une offre de restauration sur place et une arrivée pratique, nos visiteurs peuvent organiser plus facilement leur temps entre jeu, repas et pauses.<\/p>\n<br>\n<p>Players Plus renforce également la perception de valeur autour du parcours transactionnel, même si les canaux formels de dépôt et de retrait ne sont pas détaillés publiquement. Le programme ajoute un crédit de jeu de bienvenue, des remises en restauration, des offres exclusives et des avantages personnalisés, ce qui crée un cadre plus stratégique et plus valorisant pour les visiteurs réguliers.<\/p>\n<br>\n<p>Pour la communication de marque, cette approche transparente protège la qualité de la décision. Nos visiteurs peuvent identifier rapidement quels éléments opérationnels sont confirmés aujourd’hui et quels champs liés aux paiements restent not specified, ce qui est plus crédible qu’un contenu spéculatif.<\/p>\n<br>\n<p>Dans les limites des sources actuellement vérifiées, le message le plus fort sur les dépôts et les retraits reste donc celui de l’exactitude méthodologique. Nous préservons la clarté, maintenons la confiance et présentons uniquement ce qui peut être confirmé de manière responsable, tout en mettant en avant les véritables forces de confort et de service qui structurent l’expérience sur place.<\/p><br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mode de paiement\n      <\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Disponibilité dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        American Express\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisé publiquement dans les sources vérifiées du casino ; confirmation recommandée directement à l’accueil.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Carte bleue\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisée publiquement ; le site ne publie pas de liste détaillée des cartes acceptées sur place.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Chèques bancaires et postaux\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisés publiquement dans les informations vérifiées actuellement disponibles.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Chèques Vacances\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisés publiquement ; aucune confirmation ouverte trouvée dans les sources vérifiées du casino.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Espèces\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mode de règlement sur place non détaillé publiquement ; à confirmer auprès de l’accueil avant la visite si ce point est décisif.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Eurocard - Mastercard\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisée publiquement ; aucune mention explicite trouvée sur les pages vérifiées du casino.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Virements\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non confirmés comme moyen de dépôt ou de retrait sur place ; les sources vérifiées mentionnent seulement la sécurisation des paiements en ligne liés aux réservations et achats de services.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Visa\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Non précisée publiquement dans les données consultées ; confirmation recommandée directement auprès du casino.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Paiement en ligne pour réservations \/ achats\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mention indirectement confirmée sur le site via la gestion des réservations, achats de services et la sécurisation des paiements en ligne ; les marques exactes, frais et délais ne sont pas détaillés publiquement.\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Crédits promotionnels Players Plus\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Confirmés dans le programme Players Plus : crédits promotionnels sur ticket ou carte selon le casino, non échangeables, non remboursables, non négociables, avec durée de validité limitée.\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe Casino Partouche Bandol ?",
+                            "answer": "Nous sommes situés au 2 Place Lucien Artaud, 83150 Bandol, à l’extrémité du Quai Charles de Gaulle, en bord de mer."
+                        },
+                        {
+                            "title": "Qu’est-ce qui distingue notre offre de jeu ?",
+                            "answer": "Nous proposons deux ambiances de jeu, dont un espace avec vue mer et le plus grand parc de Roulette Anglaise Électronique du Var."
+                        },
+                        {
+                            "title": "Avons-nous une offre de restauration sur place ?",
+                            "answer": "Oui. Nos visiteurs peuvent profiter de notre bar et du restaurant La Rotonde avec vue panoramique sur la baie de Bandol."
+                        },
+                        {
+                            "title": "Quels sont nos horaires de jeu ?",
+                            "answer": "Notre salle des machines à sous est ouverte de 9h00 à 4h00, et nos tables de jeux traditionnels de 20h30 à 3h30."
+                        },
+                        {
+                            "title": "Proposons-nous un parking et un accès PMR ?",
+                            "answer": "Oui. Nous disposons d’un parking, d’un parking Central à proximité, d’un accès PMR et d’un espace fumeur."
+                        },
+                        {
+                            "title": "Quels avantages inclut Players Plus ?",
+                            "answer": "Players Plus inclut des offres exclusives, des avantages personnalisés, des cadeaux toute l’année, 5 € de crédit de jeu en offre de bienvenue et 15 % de réduction sur la première addition dans nos bars et restaurants, sous conditions."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
